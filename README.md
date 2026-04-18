@@ -142,8 +142,8 @@ docker logs -f <container-id>  # 로그 확인
 ```
 
 **Option 3: Windows Redis 바이너리**
-- [Microsoft/redis](https://github.com/microsoftarchive/redis/releases){:target="_blank"} 다운로드
-- 또는 [Memurai](https://www.memurai.com/){:target="_blank"} 설치
+- [Microsoft/redis](https://github.com/microsoftarchive/redis/releases) 다운로드
+- 또는 [Memurai](https://www.memurai.com/) 설치
 
 #### Redis 연결 확인
 ```bash
@@ -450,10 +450,10 @@ wsl -d Ubuntu && redis-server
 
 ## 참고 자료
 
-- [Spring Data JPA - @Lock Documentation](https://docs.spring.io/spring-data/jpa/reference/jpa.html){:target="_blank"}
-- [Redisson - Documentation](https://redisson.org/){:target="_blank"}
-- [H2 Database - Console](http://localhost:8080/h2-console){:target="_blank"} (In-Memory 프로필 실행 시)
-- [Spring Boot Profiles](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.profiles){:target="_blank"}
+- [Spring Data JPA - @Lock Documentation](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
+- [Redisson - Documentation](https://redisson.org/)
+- [H2 Database - Console](http://localhost:8080/h2-console) (In-Memory 프로필 실행 시)
+- [Spring Boot Profiles](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.profiles)
 
 ---
 
@@ -599,13 +599,13 @@ curl "http://localhost:8080/api/accounts/distributed/transfer?from=DIS-001&to=DI
 
 ### 공식 문서
 
-- [Spring Boot 3.4.0 Documentation](https://spring.io/projects/spring-boot){:target="_blank"}
-- [Spring Data JPA - Locking](https://docs.spring.io/spring-data/jpa/reference/jpa/query-methods/query-method-details.html#jpa.locking){:target="_blank"}
-- [Redisson Documentation](https://redisson.org/){:target="_blank"}
+- [Spring Boot 3.4.0 Documentation](https://spring.io/projects/spring-boot)
+- [Spring Data JPA - Locking](https://docs.spring.io/spring-data/jpa/reference/jpa/query-methods/query-method-details.html#jpa.locking)
+- [Redisson Documentation](https://redisson.org/)
 
 ### 블로그 포스트
 
-- [GracefulSoul - 데이터 동시성 제어](https://gracefulsoul.github.io/database/data-concurrency-lock/){:target="_blank"}
+- [GracefulSoul - 데이터 동시성 제어](https://gracefulsoul.github.io/database/data-concurrency-lock/)
 
 ---
 
@@ -617,9 +617,3 @@ MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
 
 GracefulSoul (Kim)  
 Seoul, Republic of Korea
-
----
-
-**마지막 업데이트**: 2026-04-18  
-**Java 버전**: 25  
-**Spring Boot 버전**: 3.4.0
